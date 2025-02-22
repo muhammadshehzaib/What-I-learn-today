@@ -10,3 +10,13 @@ Solved one js interview question about reduce method
 2/23/2025
 Read the difference between Throttling and Debouncing?
 https://medium.com/@bs903944/debounce-and-throttling-what-they-are-and-when-to-use-them-eadd272fe0be
+Difference between Callbacks and Promises??
+State Management
+Callbacks:
+Callbacks do not have a built-in mechanism to track the state of an asynchronous operation (e.g., pending, fulfilled, or rejected).
+Promises:
+Promises have three states:
+Pending: The initial state (operation not yet completed).
+Fulfilled: The operation completed successfully.
+Rejected: The operation failed.
+
