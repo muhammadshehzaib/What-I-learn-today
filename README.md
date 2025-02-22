@@ -5,3 +5,7 @@ What I Learn Today is a daily log of my learning journey as a developer. This re
 Read about the reduce() method on MDN.
 Learn about object destructuring.
 Revisit Hitesh's live class to review essential and advanced JavaScript concepts.
+Solved one js interview question about reduce method
+
+2/23/2025
+Read the difference between Throttling and Debouncing?
