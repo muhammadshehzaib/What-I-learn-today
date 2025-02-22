@@ -9,3 +9,4 @@ Solved one js interview question about reduce method
 
 2/23/2025
 Read the difference between Throttling and Debouncing?
+https://medium.com/@bs903944/debounce-and-throttling-what-they-are-and-when-to-use-them-eadd272fe0be
