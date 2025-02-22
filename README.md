@@ -20,3 +20,5 @@ Pending: The initial state (operation not yet completed).
 Fulfilled: The operation completed successfully.
 Rejected: The operation failed.
 
+Promise.all vs promise.allSettled
+
