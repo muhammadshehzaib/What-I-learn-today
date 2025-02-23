@@ -22,4 +22,7 @@ Rejected: The operation failed.
 
 Promise.all vs promise.allSettled
 Read about event loop from mdn
+Read about useEffect cleanup function
+Read about useState 
+
 
