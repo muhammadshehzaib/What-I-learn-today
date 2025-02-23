@@ -21,4 +21,5 @@ Fulfilled: The operation completed successfully.
 Rejected: The operation failed.
 
 Promise.all vs promise.allSettled
+Read about event loop from mdn
 
