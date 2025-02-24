@@ -25,4 +25,8 @@ Read about event loop from mdn
 Read about useEffect cleanup function
 Read about useState 
 
+2/24/2025
+read this article 
+37 Tips from a Senior Frontend Developer
+https://dev.to/_ndeyefatoudiop/37-tips-from-a-senior-frontend-developer-251b?ref=dailydev
 
