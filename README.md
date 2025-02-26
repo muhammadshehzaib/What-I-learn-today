@@ -30,8 +30,10 @@ read this article
 37 Tips from a Senior Frontend Developer
 https://dev.to/_ndeyefatoudiop/37-tips-from-a-senior-frontend-developer-251b?ref=dailydev
 
-2/25/2025
+2/26/2025
 Svelte vs React: Which Framework to Choose?
 
-
+2/27/2025
+Read this amazing blog post about event loop
+https://www.lydiahallie.com/blog/event-loop?ref=dailydev
 
