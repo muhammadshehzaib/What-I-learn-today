@@ -37,3 +37,7 @@ Svelte vs React: Which Framework to Choose?
 Read this amazing blog post about event loop
 https://www.lydiahallie.com/blog/event-loop?ref=dailydev
 
+2/28/2025
+15 Must Know JavaScript Tricks for Experienced Developers
+
+
