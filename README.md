@@ -42,5 +42,5 @@ https://www.lydiahallie.com/blog/event-loop?ref=dailydev
 
 3/2/2025
 Understanding the Differences Between WebSocket and Socket.IO
-
+High latency
 
