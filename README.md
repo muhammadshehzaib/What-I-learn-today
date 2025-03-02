@@ -40,4 +40,7 @@ https://www.lydiahallie.com/blog/event-loop?ref=dailydev
 2/28/2025
 15 Must Know JavaScript Tricks for Experienced Developers
 
+3/2/2025
+Understanding the Differences Between WebSocket and Socket.IO
+
 
