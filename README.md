@@ -44,3 +44,5 @@ https://www.lydiahallie.com/blog/event-loop?ref=dailydev
 Understanding the Differences Between WebSocket and Socket.IO
 High latency
 
+3/31/2025
+Learn about reduce method and solved 6 easy, medium and hard questions
