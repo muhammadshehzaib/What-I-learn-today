@@ -46,3 +46,7 @@ High latency
 
 3/31/2025
 Learn about reduce method and solved 6 easy, medium and hard questions
+
+4/1/2025
+Learn about splice method and solved questions for that
+
