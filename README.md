@@ -51,3 +51,21 @@ Learn about reduce method and solved 6 easy, medium and hard questions
 Learn about splice method and solved questions for that
 revice filter method and solved questions for that
 
+4/3/2025
+Learn about typescript 
+=>Why to learn TypeScript
+=>TypeScript is not what you think
+=>How to install TypeScript
+=>Your first intro to TypeScript docs
+
+4/4/25
+=>Number, boolean, and type inference
+=>Number, boolean, and type inference
+=>Don't use ANY
+=>Do you really know functions
+=>A better way to write function
+=>Bad behavior of objects
+=>Type Aliases
+=>READONLY and optional
+=>Array
+
