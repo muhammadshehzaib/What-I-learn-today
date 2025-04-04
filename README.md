@@ -60,7 +60,6 @@ Learn about typescript
 
 4/4/25
 =>Number, boolean, and type inference
-=>Number, boolean, and type inference
 =>Don't use ANY
 =>Do you really know functions
 =>A better way to write function
