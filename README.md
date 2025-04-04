@@ -68,3 +68,12 @@ Learn about typescript
 =>READONLY and optional
 =>Array
 
+4/5/2025
+=>Union Types in TS
+=>Tuples
+=>Enums
+=>interface
+=>Interface vs Type
+=>How to setup Typescript for real projects
+=>Classes
+
