@@ -77,3 +77,7 @@ Learn about typescript
 =>How to setup Typescript for real projects
 =>Classes
 
+4/10/2025
+Learning about nestjs through documentation and learning about new things like dependency injection typeorm etc
+
+
