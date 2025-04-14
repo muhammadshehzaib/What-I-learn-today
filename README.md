@@ -80,6 +80,6 @@ Learn about typescript
 4/10/2025
 Learning about nestjs through documentation and learning about new things like dependency injection typeorm etc
 
-4/11/25
+4/14/25
 read this article => Learn API Fundamentals and Architecture – A Beginner-Friendly Guide
 learn about HOC in react
