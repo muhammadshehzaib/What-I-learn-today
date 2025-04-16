@@ -89,4 +89,4 @@ Working on the 36 weeks remote job prep week 0 completed
 4/16/2025
 week 1 day 1,2,3 completed
 learn about HOC in react
-
+learn about web workers in nodejs
