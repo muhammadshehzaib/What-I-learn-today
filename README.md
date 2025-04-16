@@ -82,4 +82,11 @@ Learning about nestjs through documentation and learning about new things like d
 
 4/14/25
 read this article => Learn API Fundamentals and Architecture – A Beginner-Friendly Guide
+
+4/15/2025
+Working on the 36 weeks remote job prep week 0 completed
+
+4/16/2025
+week 1 day 1 completed
+
 learn about HOC in react
