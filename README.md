@@ -87,6 +87,6 @@ read this article => Learn API Fundamentals and Architecture – A Beginner-Frie
 Working on the 36 weeks remote job prep week 0 completed
 
 4/16/2025
-week 1 day 1 completed
-
+week 1 day 1,2,3 completed
 learn about HOC in react
+
