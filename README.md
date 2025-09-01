@@ -91,3 +91,9 @@ week 1 day 1,2,3 completed
 learn about HOC in react
 Learn about 10 different interview questions from this document 
 https://docs.google.com/document/d/1W2FCBEiTqFlhpNiRWjXSXNfWE3U8V0Z-TDxpMfF16lY/edit?tab=t.0
+
+
+9/2/2025
+learn about Multi-tenancy
+https://www.youtube.com/watch?v=ADTmCf-HZOY
+
