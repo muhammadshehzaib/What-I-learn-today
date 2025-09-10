@@ -97,3 +97,7 @@ https://docs.google.com/document/d/1W2FCBEiTqFlhpNiRWjXSXNfWE3U8V0Z-TDxpMfF16lY/
 learn about Multi-tenancy
 https://www.youtube.com/watch?v=ADTmCf-HZOY
 
+9/3/2025
+API Pagination - Offset and Cursor Pagination Explained - Backend Engineering
+https://www.youtube.com/watch?v=mvlzhBgGS4s
+
