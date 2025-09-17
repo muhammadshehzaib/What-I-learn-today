@@ -101,3 +101,8 @@ https://www.youtube.com/watch?v=ADTmCf-HZOY
 API Pagination - Offset and Cursor Pagination Explained - Backend Engineering
 https://www.youtube.com/watch?v=mvlzhBgGS4s
 
+9/17/2025
+The Right way to Fetch Data
+https://www.youtube.com/watch?v=MG9tI5QCbtM
+
+
