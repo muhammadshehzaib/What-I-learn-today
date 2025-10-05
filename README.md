@@ -101,6 +101,11 @@ https://www.youtube.com/watch?v=ADTmCf-HZOY
 API Pagination - Offset and Cursor Pagination Explained - Backend Engineering
 https://www.youtube.com/watch?v=mvlzhBgGS4s
 
+10/5/2025
+How Pro Developers Organize MERN Projects 💻| Hindi | Day 16/100
+https://www.youtube.com/watch?v=FQc6NJiUoj0
+
+
 9/17/2025
 The Right way to Fetch Data
 https://www.youtube.com/watch?v=MG9tI5QCbtM
