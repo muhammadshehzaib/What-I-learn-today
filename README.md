@@ -115,3 +115,9 @@ https://www.youtube.com/watch?v=FQc6NJiUoj0
 You Won’t Believe React 19.2 Features 🤯 What’s New? | Let's discuss In Hindi | Day 33/100
 https://www.youtube.com/watch?v=SVVJ9xgv6Ck
 
+
+7 JUly 2026
+Type Annotations
+Interface
+Union & Literal Types
+Arrays & Tuples
