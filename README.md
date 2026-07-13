@@ -123,4 +123,10 @@ Union & Literal Types
 Arrays & Tuples
 
 
-8/7/2026 - 12/7/2026 Continued working on my Go project, strengthening my understanding of Go fundamentals. Learned about Prisma Transactions and the Prisma N+1 Query Problem, and spent time diagnosing and resolving VPS issues that I was experiencing.
+8/7/2026 - 12/7/2026 Continued working on my Go project, strengthening my understanding of Go fundamentals. Learned about Prisma Transactions and the Prisma N+1 
+
+
+Query Problem, and spent time diagnosing and resolving VPS issues that I was experiencing.
+
+
+14/7/2026 Learn about new HTTP method Query
