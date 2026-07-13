@@ -129,4 +129,6 @@ Arrays & Tuples
 Query Problem, and spent time diagnosing and resolving VPS issues that I was experiencing.
 
 
-14/7/2026 Learn about new HTTP method Query
+14/7/2026 Learn about new HTTP method Query and also about LangChain, LangGraph and LangSmith
+
+
