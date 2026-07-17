@@ -131,4 +131,5 @@ Query Problem, and spent time diagnosing and resolving VPS issues that I was exp
 
 14/7/2026 Learn about new HTTP method Query and also about LangChain, LangGraph and LangSmith
 
+7/17/2026 Today, I worked with the Semgrep application security platform and contributed to the Curely backend, which contains over 100 database tables. I also worked on the subscription module, focusing on handling various subscription-related edge cases and improving its overall reliability.
 
