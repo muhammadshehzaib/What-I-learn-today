@@ -133,5 +133,7 @@ Query Problem, and spent time diagnosing and resolving VPS issues that I was exp
 
 7/17/2026 Today, I worked with the Semgrep application security platform and contributed to the Curely backend, which contains over 100 database tables. I also worked on the subscription module, focusing on handling various subscription-related edge cases and improving its overall reliability.
 
+22-24 July learned about claude skill how can we set up proper skills.md and readme.md so claude can read all the data set up pre commits and also done some work regarding setting up proper test cases rule. Write around 7000 test cases of the GLP Mobile application backend
+
 
 7/21/2026 Work on the system design of my blog application and create a raw daigram for it and post about it on the linkedIn
