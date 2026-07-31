@@ -142,3 +142,6 @@ Query Problem, and spent time diagnosing and resolving VPS issues that I was exp
 Learn how to do LinkedIn DMs properly — how I should be reaching out to people.
 Learn about business and how it differs from a job.
 Learn about AI workflows.
+
+30-31 July Learn about how can 2-3 members able to build large applications using claude skills and also learned about best practices how I can improve my resume
+
