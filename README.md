@@ -139,9 +139,15 @@ Query Problem, and spent time diagnosing and resolving VPS issues that I was exp
 
 
 25-29 July Learn about Claude — flows, skills, and other features. Watch a 1-hour YouTube video on it.
+
 Learn how to do LinkedIn DMs properly — how I should be reaching out to people.
 Learn about business and how it differs from a job.
 Learn about AI workflows.
 
 30-31 July Learn about how can 2-3 members able to build large applications using claude skills and also learned about best practices how I can improve my resume
 
+1-8 August Learn about qdrant vector db and rag systems and also work on the resume portfolio Generator projects like
+=>  add analytics dashboard and event tracking with device, referrer, duration, clicked
+=>  implement LLM service with JSON repair and add multiple portfolio resume templates
+=>  add AI-powered job matching and personalized cover letter generation services and UI modal
+=>  implement AI chat functionality, portfolio API services, and backend router integration
