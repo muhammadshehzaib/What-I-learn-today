@@ -151,3 +151,7 @@ Learn about AI workflows.
 =>  implement LLM service with JSON repair and add multiple portfolio resume templates
 =>  add AI-powered job matching and personalized cover letter generation services and UI modal
 =>  implement AI chat functionality, portfolio API services, and backend router integration
+
+
+
+9 august working on the lablab.ai hackathon created a web app there for the people who want to gain weight and also what exercises they should do and also learn about qdrant payload, filters, sparse and dense vectors too 
