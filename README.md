@@ -155,3 +155,6 @@ Learn about AI workflows.
 
 
 9 august working on the lablab.ai hackathon created a web app there for the people who want to gain weight and also what exercises they should do and also learn about qdrant payload, filters, sparse and dense vectors too 
+
+
+10 august work on the lab lab.ai project and also see how can I advertise an application market an application
