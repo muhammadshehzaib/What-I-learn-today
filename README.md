@@ -158,3 +158,7 @@ Learn about AI workflows.
 
 
 10 august work on the lab lab.ai project and also see how can I advertise an application market an application
+
+
+12-14 August React Microfrontends Crash Course 2026 | Frontend System Design Explained
+
