@@ -162,3 +162,5 @@ Learn about AI workflows.
 
 12-14 August React Microfrontends Crash Course 2026 | Frontend System Design Explained
 
+14-18 August Learn about deepseek agent harness and learn about scaleanility in the rag system and also creating a rag system using arXiv open source research papers and Started to create a simple rag around now it is 10 research paper. Try to get the rag of 1 million research papers
+
