@@ -164,3 +164,7 @@ Learn about AI workflows.
 
 14-18 August Learn about deepseek agent harness and learn about scaleanility in the rag system and also creating a rag system using arXiv open source research papers and Started to create a simple rag around now it is 10 research paper. Try to get the rag of 1 million research papers
 
+
+19-27 August Worked on the arXiv tool, batch processing, vector database ingestion, caching, and UTF-8 encoding.
+Learned RAG concepts including metadata filtering, hybrid retrieval (Dense + BM25), and RAG Triad evaluation.
+Improved understanding of Promises and learned how to explain technical concepts with clear, precise definitions.
