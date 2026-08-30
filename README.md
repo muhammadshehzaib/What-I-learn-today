@@ -168,3 +168,6 @@ Learn about AI workflows.
 19-27 August Worked on the arXiv tool, batch processing, vector database ingestion, caching, and UTF-8 encoding.
 Learned RAG concepts including metadata filtering, hybrid retrieval (Dense + BM25), and RAG Triad evaluation.
 Improved understanding of Promises and learned how to explain technical concepts with clear, precise definitions.
+
+28-30 August Finished Chapter 2 of Designing Data-Intensive Applications. With AI assistance, I broke down the Relational vs. Document models, the rise of NoSQL, the object-relational impedance mismatch, and many-to-one/many-to-many relationship dynamics.
+
