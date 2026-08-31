@@ -176,3 +176,7 @@ A daily log of my learning journey as a developer. This repository is a diary do
 - Learned how to diagnose and reduce web latency by decomposing, measuring, identifying bottlenecks, and iteratively optimizing each request phase.
 - Converted a single-user demo into a secure, AGPL-3.0-licensed multi-tenant GitHub App SaaS, featuring per-installation tokens, custom `.aipr.yml` repo rules, and free-tier usage metering (50 private reviews/month, unlimited public reviews).
 - Built an on-device semantic vector cache that matches paraphrased questions by meaning, returning pre-computed answers in under 20 milliseconds at zero LLM cost.
+
+### September 1
+- Learned about the CAP Theorem.
+- Learned about the disadvantages of using document-based databases like MongoDB for certain applications. 
