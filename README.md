@@ -180,3 +180,7 @@ A daily log of my learning journey as a developer. This repository is a diary do
 ### September 1
 - Learned about the CAP Theorem.
 - Learned about the disadvantages of using document-based databases like MongoDB for certain applications. 
+
+### September 2
+- Learned how to improve our SaaS application's UI — saw a beautiful interface using bento-grid design and tried applying that style to our AI PR Reviewer product.
+- Learned how to preserve context in the LLM across follow-up questions (2nd, 3rd, etc.).
