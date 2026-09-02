@@ -184,3 +184,7 @@ A daily log of my learning journey as a developer. This repository is a diary do
 ### September 2
 - Learned how to improve our SaaS application's UI — saw a beautiful interface using bento-grid design and tried applying that style to our AI PR Reviewer product.
 - Learned how to preserve context in the LLM across follow-up questions (2nd, 3rd, etc.).
+
+### September 3
+- Read a blog on building a knowledge graph from 40M documents by parsing existing citation edges instead of using an LLM — 929M edges in 10.8 minutes, zero model calls, 83.2% accuracy on 600 test questions — Structuring 40 Million Documents into an Agentic Knowledge Graph
+- Learned about consistency and parallelism for the backend development
