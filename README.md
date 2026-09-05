@@ -190,6 +190,9 @@ A daily log of my learning journey as a developer. This repository is a diary do
 - Learned about consistency and parallelism for the backend development
 
 ### September 4
+- Mastered Hybrid Search: Combined BM25 with vector search and cross-encoder reranking to balance high speed and token-level accuracy.
+- Built Cost & Safety Guardrails: Implemented the Refusal Ladder ($\ge 70%$ confidence floor) and on-device Semantic Caching ($\ge 0.92$ threshold).
+- Advanced Architecture: Explored Graph RAG for multi-hop citations and the RAG Triad for production quality evaluation.
 - Learned about bi-encoders and cross-encoders.
 - Learned different flows in the arXiv project I'm building and defined the whole pipeline: Bi-Encoder → Cross-Encoder Reranking → Parent-Child Chunking.
 - Learned about Sliding Window Chunking and Semantic Caching (Vector Cache).
