@@ -198,3 +198,7 @@ A daily log of my learning journey as a developer. This repository is a diary do
 - Learned about Sliding Window Chunking and Semantic Caching (Vector Cache).
 - Learned about the differences between vector search and sparse search (BM25) what each is good at.
 
+### September 5, 6, 7
+Learned why Node.js is single-threaded and how worker threads work.
+Learned how to use open-source licensing.
+Worked on my arxiv project where I work on Academic Knowledge Graph for Graph RAG (paper citations & co-authors), a fail-closed Refusal Ladder safety fix, and a cache-first latency optimization that eliminates wasted LLM calls on cache hits.
