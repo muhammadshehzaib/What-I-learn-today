@@ -202,3 +202,6 @@ A daily log of my learning journey as a developer. This repository is a diary do
 Learned why Node.js is single-threaded and how worker threads work.
 Learned how to use open-source licensing.
 Worked on my arxiv project where I work on Academic Knowledge Graph for Graph RAG (paper citations & co-authors), a fail-closed Refusal Ladder safety fix, and a cache-first latency optimization that eliminates wasted LLM calls on cache hits.
+
+## September 8, 9
+- Work around AI PR reviewer and found some issues which can be improved in it
