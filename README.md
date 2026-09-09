@@ -205,3 +205,6 @@ Worked on my arxiv project where I work on Academic Knowledge Graph for Graph RA
 
 ## September 8, 9
 - Work around AI PR reviewer and found some issues which can be improved in it
+
+### September 10
+- Learned why Apple chose Gemini.
