@@ -208,3 +208,13 @@ Worked on my arxiv project where I work on Academic Knowledge Graph for Graph RA
 
 ### September 10
 - Learned why Apple chose Gemini.
+
+### September 11-12
+1. Fan-out on write ✅
+2. Fan-out on read ✅
+3. Celebrity problem ✅
+4. Hybrid approach ✅
+5. Queue + worker ✅
+6. Redis as the fast/derived feed store ✅
+7. Redis Sorted Set for ordering/pagination
+8. Cursor Pagination
