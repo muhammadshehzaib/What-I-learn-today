@@ -218,3 +218,11 @@ Worked on my arxiv project where I work on Academic Knowledge Graph for Graph RA
 6. Redis as the fast/derived feed store ✅
 7. Redis Sorted Set for ordering/pagination
 8. Cursor Pagination
+
+### September 13-14
+9. Sharding
+10. Replication
+11. Load balancing
+12. chronological feed.
+13. ranking score of posts
+
