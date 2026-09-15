@@ -230,4 +230,8 @@ Worked on my arxiv project where I work on Academic Knowledge Graph for Graph RA
 Learn about Transformers (Basics)
 Learn about Neural Networks (Basics)
 Learn about how can I enhance my AI learnings
+
+### September 16
+When Gamification spoils your learning (Video)
+
 Learn about deepfake,AI, Machine Learning, Deep Learning and Gen AI (IBM video)
