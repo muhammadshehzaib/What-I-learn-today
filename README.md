@@ -226,3 +226,8 @@ Worked on my arxiv project where I work on Academic Knowledge Graph for Graph RA
 12. chronological feed.
 13. ranking score of posts
 
+### September 15-16
+Learn about Transformers (Basics)
+Learn about Neural Networks (Basics)
+Learn about how can I enhance my AI learnings
+Learn about deepfake,AI, Machine Learning, Deep Learning and Gen AI (IBM video)
