@@ -235,3 +235,10 @@ Learn about deepfake,AI, Machine Learning, Deep Learning and Gen AI (IBM video)
 ### September 16
 When Gamification spoils your learning (Video)
 China DeepSeek Engineer HATES Anthropic (Video)
+
+### September 17-18
+How Jeff Bezos Actually Built Amazon
+How Elon Musk Actually Became a Trillionaire
+Margin Call Scandal Explained Like You're 5
+NVIDIA Explained Like You're 5
+System Design | Postgres Pooling saves the day
