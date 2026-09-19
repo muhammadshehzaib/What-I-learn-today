@@ -242,3 +242,8 @@ How Elon Musk Actually Became a Trillionaire
 Margin Call Scandal Explained Like You're 5
 NVIDIA Explained Like You're 5
 System Design | Postgres Pooling saves the day
+
+### September 19-20
+5 mistakes I made while freelancing (don’t do this)
+System Design | Postgres Pooling saves the day
+
