@@ -247,3 +247,11 @@ System Design | Postgres Pooling saves the day
 5 mistakes I made while freelancing (don’t do this)
 System Design | Postgres Pooling saves the day
 
+## September 21-29
+Learned about the Docker compose.yaml file, Dockerfiles, Docker images, containers, and volumes.
+Watched a Udemy course on scalability — Become a Software Architect or Technical Lead by Mastering Software Architecture, System Design & Big Data Processing.
+Worked on the AI PR Reviewer and the arXiv RAG system.
+Learned about harness engineering.
+Learned about Jev typesafe AI.
+Learned about loop engineering.
+
