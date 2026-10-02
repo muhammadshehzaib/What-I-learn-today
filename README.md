@@ -260,4 +260,8 @@ Watched this video OpenAI Dots Takes On Meta Muse. Who Wins?
 Watched this video 1 Language 1 framework | New age of learning developerment with AI
 Watched this video Traditional Coding Is Dead. What Replaces It?
 
+October 3
+Watched this video AI addiction is very real
+Watched this video How Does a Program Actually Get RAM? malloc & mmap Explained
+Watched this video Rate Limiting: Fixed window vs Token Bucket Algorithm
 
