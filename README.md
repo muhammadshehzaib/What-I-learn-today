@@ -248,20 +248,27 @@ System Design | Postgres Pooling saves the day
 System Design | Postgres Pooling saves the day
 
 ## September 21-29
-Learned about the Docker compose.yaml file, Dockerfiles, Docker images, containers, and volumes.
-Watched a Udemy course on scalability — Become a Software Architect or Technical Lead by Mastering Software Architecture, System Design & Big Data Processing.
-Worked on the AI PR Reviewer and the arXiv RAG system.
-Learned about harness engineering.
-Learned about Jev typesafe AI.
-Learned about loop engineering.
+- Learned Docker basics: Dockerfiles, images, containers, volumes, and `compose.yaml`.
+- Watched a Udemy course on software architecture, system design, and scalability.
+- Worked on the AI PR Reviewer and the arXiv RAG system.
+- Learned about harness engineering, Jev type-safe AI, and loop engineering.
 
 ## September 30 - October 2
-Watched this video OpenAI Dots Takes On Meta Muse. Who Wins? 
-Watched this video 1 Language 1 framework | New age of learning developerment with AI
-Watched this video Traditional Coding Is Dead. What Replaces It?
+- **OpenAI Dots Takes On Meta Muse. Who Wins?** *
+  Big AI labs are racing to build their own AI products, and the competition is shaping where the tools go next.
+- **1 Language 1 Framework | New age of learning development with AI** *
+  With AI help, you can go deep on one language and framework instead of learning many.
+- **Traditional Coding Is Dead. What Replaces It?** *
+  Writing code line by line is giving way to directing AI, so problem solving and system thinking matter more.
 
-October 3
-Watched this video AI addiction is very real
-Watched this video How Does a Program Actually Get RAM? malloc & mmap Explained
-Watched this video Rate Limiting: Fixed window vs Token Bucket Algorithm
+## October 3
+- **AI Addiction Is Very Real** *
+  Over-relying on AI can hurt your own thinking and skills, so use it with intention.
+- **How Does a Program Actually Get RAM? malloc & mmap Explained**
+  malloc and mmap are how programs request memory from the OS, whether from the heap or by mapping memory directly.
+- **Rate Limiting: Fixed Window vs Token Bucket**
+  Fixed window counts requests per time slot but allows bursts at the edges. Token bucket refills tokens over time, so it handles bursts more smoothly.
 
+## October 4
+- **Future of AI & Software Engineering: Bubble vs Reality** *
+  AI is changing software engineering, but fundamentals and real problem solving still matter.
