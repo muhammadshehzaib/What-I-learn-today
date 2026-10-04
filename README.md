@@ -272,3 +272,4 @@ System Design | Postgres Pooling saves the day
 ## October 4
 - **Future of AI & Software Engineering: Bubble vs Reality** *
   AI is changing software engineering, but fundamentals and real problem solving still matter.
+- Today I learned that knowing core concepts like databases, concurrency, and system design matters more than ever in AI-assisted interviews, because AI can write code but cannot replace engineering judgment.
