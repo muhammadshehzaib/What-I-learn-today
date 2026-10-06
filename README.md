@@ -279,3 +279,12 @@ The Cal AI story
 - Four friends built Cal AI to $1M/month in 8 months, then sold it.
 - Key lesson: solve your own problem. You'll know the product and the audience better.
 - Takeaway: start with what annoys you, not what's trending.
+
+## October 6-7
+- **Scalability: 3 Ways to Grow a System**
+  Vertical means one stronger machine. Horizontal means many machines sharing the load. Team scaling means independent services so teams don't block each other.
+- Today I learned that architecture affects not just system speed, but how fast the team ships.
+
+- **Baseten: The $13B Bet on Open Source AI** *
+  Every AI response runs on inference, and Baseten handles over a billion requests a day. They want many models, not just a few labs controlling all the intelligence.
+- Today I learned that the real bottleneck for a fast-growing company is keeping up with customers.
