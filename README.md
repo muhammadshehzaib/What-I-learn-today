@@ -284,7 +284,13 @@ The Cal AI story
 - **Scalability: 3 Ways to Grow a System**
   Vertical means one stronger machine. Horizontal means many machines sharing the load. Team scaling means independent services so teams don't block each other.
 - Today I learned that architecture affects not just system speed, but how fast the team ships.
-
 - **Baseten: The $13B Bet on Open Source AI** *
   Every AI response runs on inference, and Baseten handles over a billion requests a day. They want many models, not just a few labs controlling all the intelligence.
 - Today I learned that the real bottleneck for a fast-growing company is keeping up with customers.
+
+## October 8
+- **AI Terms Explained Simply**
+  An LLM predicts the next token. An agent is an LLM with tools and a loop that keeps going until the goal is done.
+- Today I learned that a chatbot only answers, while an agent can take actions, but only with the tools you give it.
+- Today I learned that RAG gives an LLM your private data to read before it answers, and vector databases find that data by meaning, not exact keywords.
+- Today I learned that you don't need the most expensive model for everything. Use cheap models for simple tasks and save the top model for the hard ones.
